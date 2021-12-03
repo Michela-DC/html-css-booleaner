@@ -45,3 +45,25 @@ main{
     background-color: yellow;
 }
 
+table {
+    border-spacing: 0; /*Per togliere spazio tra le colonne della table*/
+} 
+
+.short_content{
+    width: 20%;
+    text-align: left;
+}
+
+.long_content{
+    width: 40%;
+}
+
+thead{
+    background: #20a9e5;
+    color: white;
+}
+
+.blue_rows{
+    background: #b1e5f2;
+}
+
