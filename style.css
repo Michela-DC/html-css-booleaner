@@ -13,3 +13,20 @@ header{
     margin-top: 60px;
 }
 
+#title{
+    font-size: 50px;
+    margin-top:20px;
+}
+
+.subtitle{
+    color: #a6a6a6;
+    font-size: 25px;
+}
+
+#Booleaner{
+    color: #30afe7;
+}
+
+#date{
+    font-size: 20px;
+}
