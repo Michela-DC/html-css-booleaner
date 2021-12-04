@@ -20,7 +20,6 @@ main{
 
 #title{
     font-size: 50px;
-    margin-top:20px;
 }
 
 #subtitle{
@@ -33,7 +32,7 @@ main{
 }
 
 #date{
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .main_images{
