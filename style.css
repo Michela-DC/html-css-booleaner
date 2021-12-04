@@ -5,13 +5,13 @@ body{
 
 header{
     background-image: url('img/pattern.png');
-    height: 150px;
+    height: 170px;
     background-color: #0099ff;
 }
 
 #logo{
-    height: 60px;
-    margin-top: 60px;
+    height: 70px;
+    margin-top: 80px;
 }
 
 main{
@@ -23,7 +23,7 @@ main{
     margin-top:20px;
 }
 
-.subtitle{
+#subtitle{
     color: #808080;
     font-size: 25px;
 }
@@ -46,7 +46,7 @@ main{
 }
 
 table {
-    border-spacing: 0; /*Per togliere spazio tra le colonne della table*/
+    border-collapse: collapse; /*Per togliere spazio tra le colonne della table*/
 } 
 
 .short_content{
